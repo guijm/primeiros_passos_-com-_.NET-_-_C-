@@ -1,0 +1,16 @@
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.exe
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.deps.json
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.dll
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\ref\Revisão.NET_C#.dll
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\bin\Debug\net5.0\Revisão.NET_C#.pdb
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.dll
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\ref\Revisão.NET_C#.dll
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.pdb
+C:\Users\guilh\OneDrive\Documentos\projetos\Revisão.NET_C#\obj\Debug\net5.0\Revisão.NET_C#.genruntimeconfig.cache
